@@ -35,7 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },"resolutions": {
-  "webpack": "^5.64.4"
-}
+  },
+  "resolutions": {
+    "webpack": "^5.64.4"
+  }
 }
